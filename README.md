@@ -1,6 +1,6 @@
 # Frontend Mentor - News homepage solution
 
-This is a solution to the [News homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [News homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -13,7 +13,6 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
   - [Typography](#typography)
 - [Author](#author)
 
-
 ## Overview
 
 ### The challenge
@@ -22,7 +21,7 @@ Users should be able to:
 
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
-- Toggle the mobile menu 
+- Toggle the mobile menu
 
 ### Screenshot
 
@@ -32,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Github Solution : [Github](https://github.com/HenriBresteau/FeM-news-homepage)
+- Live Site URL: [Live site](https://fem-news-homepage-mobile.vercel.app/)
 
 ## My process
 
@@ -57,8 +56,6 @@ Users should be able to:
 - Family: [Inter](https://fonts.google.com/specimen/Inter)
 - Weights: 400, 700, 800
 
-
 ## Author
 
 - Website - [Henri Bresteau](https://www.henribresteau.fr)
-
